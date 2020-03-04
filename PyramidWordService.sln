@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidWordService", "PyramidWordService\PyramidWordService.csproj", "{633A633C-A510-4C5D-B79C-35F7026AA94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633A633C-A510-4C5D-B79C-35F7026AA94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633A633C-A510-4C5D-B79C-35F7026AA94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633A633C-A510-4C5D-B79C-35F7026AA94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633A633C-A510-4C5D-B79C-35F7026AA94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF5805B-2BD0-4818-90D4-659504C1F7FC}
+	EndGlobalSection
+EndGlobal
